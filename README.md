@@ -1,0 +1,1 @@
+This a my firs attempt at detaild data analysis. This mini project involves removing duplicates, formatting cells, creating age groups which is used to build pivot tables with slicers for a much more detailed insight. Suggestions and further improvement recommendations are welcome.
